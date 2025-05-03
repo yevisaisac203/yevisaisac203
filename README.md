@@ -1,6 +1,6 @@
 # Hi there, I'm Isac Yevisa👋
 
-https://imgur.com/undefined
+<blockquote class="imgur-embed-pub" lang="en" data-id="jtI49sR"><a href="https://imgur.com/jtI49sR">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ## About Me 🚀
 
 I'm a passionate about software development . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -18,7 +18,6 @@ I'm a passionate about software development . I love tackling complex problems, 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
