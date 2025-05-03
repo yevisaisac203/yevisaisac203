@@ -24,7 +24,8 @@ I'm a passionate about software development . I love tackling complex problems, 
 
 ### [personal website](https://sites.google.com/view/isaackjyevisa/home?authuser=0)
 
-![Project 1 Screenshot](https://imgur.com/a/48rMCeE)
+![Screenshot 2025-05-03 122836](https://github.com/user-attachments/assets/8bb49ea7-ac44-483f-b29a-faf6fde9bae2)
+
 
 **my personal website** is a a personal branding showcasing my portfolios achievements and also my bio built with css,java and html. This project demonstrates my ability to use creativity in building something critical. 
 
