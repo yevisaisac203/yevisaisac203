@@ -1,6 +1,6 @@
 # Hi there, I'm Isac Yevisa👋
 
-![Banner Image]https://imgur.com/undefined
+https://imgur.com/undefined
 ## About Me 🚀
 
 I'm a passionate about software development . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
