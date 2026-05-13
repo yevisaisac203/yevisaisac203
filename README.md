@@ -19,12 +19,30 @@
 
 I am a **Software Engineer** driven by the goal of building complete, end-to-end intelligent systems. From crafting robust backends with **Django** and **Redis** to exploring the frontiers of **Machine Learning** and **Artificial Intelligence**, I build tech that is not just functional, but smart.
 
-- **🤖 AI & Automation:** Developing intelligent agents and trading bots to automate wealth generation and complex tasks.
+- **🤖 AI & Automation:** Developing intelligent agents and trading bots to automate wealth generation.
 - **🏗️ Full-Stack Systems:** Architecting entire ecosystems, from responsive frontends to high-performance database management.
-- **🔌 API Integration:** Expert in connecting services via **Daraja API (M-Pesa)** and **Africa's Talking** for seamless FinTech and communication solutions.
+- **🔌 API Integration:** Expert in connecting services via **Daraja API (M-Pesa)** and **Africa's Talking**.
 - **🏠 Smart Tech:** Currently building integrated applications for smart home technology and IoT.
 
 <br clear="both" />
+
+---
+
+### Featured Projects 💻
+
+#### 🌐 [SaccoSphere](https://github.com/Reagan-dev/SaccoSphere)
+A unified, multi-tenant platform for SACCO management.
+- **Scope:** Allows members to join multiple SACCOs, manage savings, and handle loan lifecycles via a secure API.
+- **Features:** Role management, loan approval workflows, and repayment tracking with token-based authentication.
+
+#### 🏦 [eChama Backend API](https://github.com/yevisaisac203/echama-backend)
+A digital financial system for informal savings groups (Chamas). 
+- **Tech:** Django REST Framework, JWT, PostgreSQL.
+- **Features:** Automated contribution tracking and role-based permissions (Admin/Member/Treasurer).
+
+#### 📊 [Expense Tracker System](https://github.com/Ephraim-Mwangi/expensetrackersystem)
+A comprehensive system for tracking personal and group financial health.
+- **Focus:** Visualizing spending patterns, categorizing expenses, and managing budgets through an intuitive automated dashboard.
 
 ---
 
@@ -40,12 +58,6 @@ I am a **Software Engineer** driven by the goal of building complete, end-to-end
 | **Testing & Tools** | <img src="https://skillicons.dev/icons?i=postman,git,github,linux,vscode&theme=dark" valign="middle" /> |
 
 </div>
-
----
-
-### Featured Projects 💻
-
-> **[Personal Branding Website](https://yevisaisac203.github.io/my_web/)** > My digital headquarters. Showcasing my portfolio, technical achievements, and bio.
 
 ---
 
