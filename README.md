@@ -1,40 +1,62 @@
-# Hi there, I'm Isac Yevisa👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2496ED&height=250&section=header&text=Isac%20Yevisa&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full--Stack%20•%20AI%20•%20Automation&descAlignY=55&descSize=25" width="100%" />
+</div>
 
-![image](https://github.com/user-attachments/assets/18106665-79e9-47a1-9442-4c57821becce)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=750&lines=Building+Complete+Intelligent+Systems;Machine+Learning+%26+AI+Integration;Backend+Expertise+with+Django+%26+Redis;Automating+the+World+with+Python" alt="Typing SVG" />
+</p>
 
-## About Me 🚀
+<p align="center">
+  <a href="https://yevisaisac203.github.io/my_web/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yevisa-isac" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/YIsac26937" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:isacyevisa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I'm a passionate about software development . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently learning:backend web development
-- 🔭 Working on: building an app to intergrate smart home technologies
-- 🌍 Languages:C,C++,html,python i also speak English and kiswahili as my human language
-- 📫 How to reach me:isacyevisa@gmail.com
-- ⚡ Fun fact: I'm currently building an AI trading bot because I believe tech should make money while I sleep
-## My Skills 🧠
+### The Vision 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+I am a **Software Engineer** driven by the goal of building complete, end-to-end intelligent systems. From crafting robust backends with **Django** and **Redis** to exploring the frontiers of **Machine Learning** and **Artificial Intelligence**, I build tech that is not just functional, but smart.
 
+- **🤖 AI & Automation:** Developing intelligent agents and trading bots to automate wealth generation and complex tasks.
+- **🏗️ Full-Stack Systems:** Architecting entire ecosystems, from responsive frontends to high-performance database management.
+- **🔌 API Integration:** Expert in connecting services via **Daraja API (M-Pesa)** and **Africa's Talking** for seamless FinTech and communication solutions.
+- **🏠 Smart Tech:** Currently building integrated applications for smart home technology and IoT.
 
-## Featured Projects 💻
+<br clear="both" />
 
-### [personal website](https://sites.google.com/view/isaackjyevisa/home?authuser=0)
+---
 
-![Screenshot 2025-05-03 122836](https://github.com/user-attachments/assets/8bb49ea7-ac44-483f-b29a-faf6fde9bae2)
+### Tech Stack & Tools
 
+<div align="center">
 
-**my personal website** is a a personal branding showcasing my portfolios achievements and also my bio built with css,java and html. This project demonstrates my ability to use creativity in building something critical. 
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,mysql&theme=dark" valign="middle" /> |
+| **AI & Low-Level** | <img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" valign="middle" /> |
+| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" valign="middle" /> |
+| **Testing & Tools** | <img src="https://skillicons.dev/icons?i=postman,git,github,linux,vscode&theme=dark" valign="middle" /> |
 
+</div>
 
-## Get in Touch 📬
+---
 
-- **[Personal Website ]**(https://sites.google.com/view/isaackjyevisa/home?authuser=0)
-- **[LinkedIn]**(https://www.linkedin.com/in/yevisa-isac-b1103234b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXb%2FVIeo7SUmStdpogwsYXA%3D%3D)
-- **[Twitter]**(https://x.com/YIsac26937)
+### Featured Projects 💻
 
+> **[Personal Branding Website](https://yevisaisac203.github.io/my_web/)** > My digital headquarters. Showcasing my portfolio, technical achievements, and bio.
 
+---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yevisaisac203&theme=dracula" alt="Isac's GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yevisaisac203&theme=dracula" alt="GitHub Streak" />
+</p>
+
+<br clear="both" />
